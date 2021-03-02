@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89aae2e-f7dc-44ae-a5fc-517289864643" name="Default Changelist" comment="" />
+    <list default="true" id="b89aae2e-f7dc-44ae-a5fc-517289864643" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/rpc-framework/src/main/java/com/michael/protocol/http/HttpHandler.java" root0="SKIP_INSPECTION" />
@@ -32,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1p5eamVeElMbQWTnkO7nSRxbWbx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -128,7 +135,7 @@
       <updated>1614477443964</updated>
       <workItem from="1614477445113" duration="25523000" />
       <workItem from="1614517203075" duration="17250000" />
-      <workItem from="1614658973575" duration="817000" />
+      <workItem from="1614658973575" duration="1683000" />
     </task>
     <servers />
   </component>
