@@ -1,0 +1,11 @@
+org\michael\consumer\HttpClient.class
+org\michael\protocal\http\HttpServer.class
+org\michael\common\Invocation.class
+org\michael\provider\api\UserService.class
+org\michael\common\Url.class
+org\michael\consumer\Consumer.class
+org\michael\protocal\http\DispatcherServlet.class
+org\michael\provider\provider.class
+org\michael\protocal\http\HttpHandler.class
+org\michael\register\RegisterFactory.class
+org\michael\provider\impl\UserServiceImpl.class
